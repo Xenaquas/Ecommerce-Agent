@@ -1,0 +1,9 @@
+streamlit>=1.15.0
+pandas>=1.3.0
+torch>=1.10.0
+transformers>=4.20.0
+langchain>=0.0.148
+langchain_ollama>=0.0.1  # or the specific version you are using
+bitsandbytes>=0.39.0
+onnxruntime>=1.10.0
+plotly>=5.0.0
