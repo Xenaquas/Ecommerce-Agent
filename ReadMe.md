@@ -26,7 +26,7 @@ The app also includes interactive data visualizations (using Plotly) and basic c
 1. **Clone the Repository:**
 
    ```bash
-   [git clone https://github.com/Xenaquas/Ecommerce-Agent.git](https://github.com/Xenaquas/Ecommerce-Agent.git)
+   git clone https://github.com/Xenaquas/Ecommerce-Agent.git
    cd fast-ecommerce-data-agent
    
 2. **Create a Virtual Environment (optional but recommended):**
